@@ -1,0 +1,6 @@
+{
+  "name": "Alarme Capitalista",
+  "description": "Um alarme chato que exige que você assista a anúncios ou pague via PIX para silenciar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
